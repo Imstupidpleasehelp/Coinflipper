@@ -1,0 +1,33 @@
+.container {
+    margin-top: 20px;
+    text-align: center;
+}
+body, html {
+    height: 100%;
+}
+.bg {
+    background-image: url('./background.jpg');
+    height: 100%;
+    width: 101.3%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    margin: -20px;
+    border: 0;
+}
+.displaytext1 {
+    color: white;
+font-size: 25px;
+}
+.displaytext{
+    font-size: 25px;
+    color: white;
+}
+.title {
+    font-size: 25px;
+    color: white;
+}
+.hidden {
+    display: none;
+}
